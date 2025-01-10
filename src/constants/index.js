@@ -64,19 +64,7 @@ export const navigation = [
     id: "3",
     title: "Контакти",
     url: "#contact",
-  },
-  {
-    id: "4",
-    title: "New account",
-    url: "#signup",
-    onlyMobile: true,
-  },
-  {
-    id: "5",
-    title: "Sign in",
-    url: "#login",
-    onlyMobile: true,
-  },
+  }
 ];
 
 export const heroIcons = [homeSmile, searchMd, plusSquare];
