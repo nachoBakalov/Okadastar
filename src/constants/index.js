@@ -11,14 +11,12 @@ import {
   benefitImage4,
   benefitImage5,
   benefitImage6,
-  benefitBg,
   chromecast,
   disc02,
   discord,
   discordBlack,
   facebook,
   figma,
-  file02,
   framer,
   homeSmile,
   instagram,
@@ -32,10 +30,6 @@ import {
   raindrop,
   recording01,
   recording03,
-  roadmap1,
-  roadmap2,
-  roadmap3,
-  roadmap4,
   searchMd,
   slack,
   sliders04,
@@ -116,42 +110,6 @@ export const exploreWorlds = [
 ];
 
 
-export const roadmap = [
-  {
-    id: "0",
-    title: "Voice recognition",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
-    date: "May 2023",
-    status: "done",
-    imageUrl: roadmap1,
-    colorful: true,
-  },
-  {
-    id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap2,
-  },
-  {
-    id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
-    date: "May 2023",
-    status: "done",
-    imageUrl: roadmap3,
-  },
-  {
-    id: "3",
-    title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
-    date: "May 2023",
-    status: "progress",
-    imageUrl: roadmap4,
-  },
-];
-
 export const collabText =
   "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
 
@@ -230,47 +188,12 @@ export const collabApps = [
   },
 ];
 
-export const pricing = [
-  {
-    id: "0",
-    title: "Basic",
-    description: "AI chatbot, personalized recommendations",
-    price: "0",
-    features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
-    ],
-  },
-  {
-    id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
-    features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
-    ],
-  },
-  {
-    id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: null,
-    features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
-    ],
-  },
-];
 
 export const benefits = [
   {
     id: "0",
     title: "Геодезия",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Прецизни геодезически измервания и анализи за надеждно планиране и изпълнение на вашите проекти.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage1,
@@ -278,7 +201,7 @@ export const benefits = [
   {
     id: "1",
     title: "Проектиране на сгради",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Създаваме функционални и модерни архитектурни решения, съобразени с вашите изисквания.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -287,7 +210,7 @@ export const benefits = [
   {
     id: "2",
     title: "Проектиране на съоражения",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Комплексно проектиране на инфраструктурни и индустриални съоръжения с внимание към детайла.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage3,
@@ -295,7 +218,7 @@ export const benefits = [
   {
     id: "3",
     title: "Стороутелни документи",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Подготвяме всички необходими строителни документи за безпроблемно стартиране на вашия проект.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage4,
@@ -304,7 +227,7 @@ export const benefits = [
   {
     id: "4",
     title: "Надзор в проектирането",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Осигуряваме експертен контрол върху всяка фаза от проектирането за гарантирано качество",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon5,
     imageUrl: benefitImage5,
@@ -312,7 +235,7 @@ export const benefits = [
   {
     id: "5",
     title: "Надзор в строителството",
-    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
+    text: "Проследяваме и гарантираме качественото изпълнение на строителните дейности на терен.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon6,
     imageUrl: benefitImage6,
