@@ -278,7 +278,7 @@ export const benefits = [
   {
     id: "1",
     title: "Проектиране на сгради",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -287,7 +287,7 @@ export const benefits = [
   {
     id: "2",
     title: "Проектиране на съоражения",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage3,
@@ -295,7 +295,7 @@ export const benefits = [
   {
     id: "3",
     title: "Стороутелни документи",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage4,
@@ -304,7 +304,7 @@ export const benefits = [
   {
     id: "4",
     title: "Надзор в проектирането",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon5,
     imageUrl: benefitImage5,
@@ -312,7 +312,7 @@ export const benefits = [
   {
     id: "5",
     title: "Надзор в строителството",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    text: "Проучване, проектиране, монтаж и строителството на инженерни съоръжения и строителни обекти.",
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon6,
     imageUrl: benefitImage6,

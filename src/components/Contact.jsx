@@ -1,7 +1,5 @@
 import React, { useState } from 'react'
 import Section from './Section'
-import ContactButton from '../extras/ContactButton';
-import Button from './Button';
 import { copy, tick } from '../assets';
 
 const Contact = () => {
@@ -17,9 +15,7 @@ const Contact = () => {
   return (
     <Section id="contact">
         <div className='contact-container flex justify-center content-center align-center'>
-            {/* <div className='flex flex-col items-center justify-center'>
-                <h2 className='h2 text-color-7 mt-10'>Свържи се с нас</h2>
-            </div> */}
+          
             <div className="flex justify-center  flex-col z-1 max-w-[30rem]  content-center bg-slate-800 rounded-md px-10 py-3 bg-opacity-70">
               <h4 className="h4 mb-4">Свържи се с нас</h4>
               <div className="space-y-5">
